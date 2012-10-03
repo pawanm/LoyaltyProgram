@@ -1,8 +1,8 @@
 import junit.framework.Assert;
-import mettl.sales.offers.loyalty.contracts.ILoyaltyProgramStrategy;
-import mettl.sales.offers.loyalty.schemes.GoldLoyaltyProgram;
-import mettl.sales.offers.loyalty.schemes.NormalLoyaltyProgram;
-import mettl.sales.offers.loyalty.schemes.SilverLoyaltyProgram;
+import training.sales.offers.loyalty.contracts.ILoyaltyProgramStrategy;
+import training.sales.offers.loyalty.schemes.GoldLoyaltyProgram;
+import training.sales.offers.loyalty.schemes.NormalLoyaltyProgram;
+import training.sales.offers.loyalty.schemes.SilverLoyaltyProgram;
 import org.junit.Test;
 
 public class LoyaltyPointGenerationTests

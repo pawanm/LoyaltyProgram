@@ -1,7 +1,7 @@
-import mettl.sales.offers.loyalty.contracts.IStoreFactory;
-import mettl.sales.offers.loyalty.factories.MockedStoreFactory;
-import mettl.sales.offers.loyalty.service.LoyaltyProgramService;
-import mettl.sales.offers.loyalty.service.LoyaltyProgramReport;
+import training.sales.offers.loyalty.contracts.IStoreFactory;
+import training.sales.offers.loyalty.factories.MockedStoreFactory;
+import training.sales.offers.loyalty.service.LoyaltyProgramService;
+import training.sales.offers.loyalty.service.LoyaltyProgramReport;
 import org.junit.Before;
 import org.junit.Test;
 

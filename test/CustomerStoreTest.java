@@ -1,8 +1,8 @@
 import junit.framework.Assert;
-import mettl.sales.offers.loyalty.contracts.ICustomer;
-import mettl.sales.offers.loyalty.contracts.ICustomerStore;
-import mettl.sales.offers.loyalty.store.CustomerStore;
-import mettl.sales.offers.loyalty.types.CustomerClass;
+import training.sales.offers.loyalty.contracts.ICustomer;
+import training.sales.offers.loyalty.contracts.ICustomerStore;
+import training.sales.offers.loyalty.store.CustomerStore;
+import training.sales.offers.loyalty.types.CustomerClass;
 import org.junit.Test;
 
 import java.util.List;
